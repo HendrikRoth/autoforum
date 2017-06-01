@@ -50,7 +50,7 @@
 
 			<div class="inner">
 				{% for post in site.posts %}
-					{% if post.categories == page.categories %}
+					{% if post.posts == page.posts %}
 						<a name="{{ post.title | escape }}"></a>
 						<div class="entry" mode="{{ i.position }}">
 							<div class="info">
