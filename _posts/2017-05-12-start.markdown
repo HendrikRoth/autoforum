@@ -1,9 +1,0 @@
----
-category: Leistungen
-title:  "Gebrauchtwagen Handel und Neuwagen"
-date:   2017-05-12 21:15:49 +0200
-images:
-  - path: /images/ersatzteillager.jpg
----
-
-Alle Marken und Hersteller Aktuelle Gebrauchtwagen unter Fahrzeuge

@@ -1,0 +1,264 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Roboto', sans-serif; }
+
+* {
+  box-sizing: border-box; }
+
+h1, h2 {
+  font-family: 'Arimo', sans-serif;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px; }
+
+h1 {
+  font-size: 3em; }
+
+h2 {
+  margin-top: 40px;
+  font-size: 2em; }
+
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin: 0;
+  padding: 0;
+  text-align: justify; }
+
+.start {
+  display: flex;
+  flex-wrap: wrap; }
+  .start .left {
+    background: #00377a;
+    color: white;
+    flex: 1;
+    display: flex;
+    flex-direction: column; }
+    .start .left .top {
+      padding: 5%;
+      flex: 3;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      .start .left .top h1 {
+        background-image: url(/autoforum/images/autoforum-froendenberg.jpg);
+        background-size: 100%;
+        display: block;
+        width: 345px;
+        height: 60px;
+        text-indent: -9999px; }
+    .start .left nav {
+      background: rgba(255, 255, 255, 0.1);
+      color: white;
+      text-align: center;
+      padding: 20px; }
+      .start .left nav ul {
+        padding: 0;
+        margin: 0; }
+      .start .left nav li {
+        margin: 0;
+        padding: 0;
+        display: inline-block; }
+      .start .left nav a {
+        color: white;
+        padding: 20px;
+        text-decoration: none; }
+      .start .left nav a:hover {
+        background: rgba(255, 255, 255, 0.2); }
+    .start .left .bottom {
+      background: #eeeeee;
+      padding: 5%;
+      flex: 1;
+      color: #555555; }
+      .start .left .bottom a {
+        color: #555555; }
+      .start .left .bottom .addresses {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; }
+        .start .left .bottom .addresses address {
+          margin: 20px;
+          font-style: normal; }
+          .start .left .bottom .addresses address .phone, .start .left .bottom .addresses address .address {
+            margin-top: 10px; }
+          .start .left .bottom .addresses address i {
+            width: 24px; }
+          .start .left .bottom .addresses address .city, .start .left .bottom .addresses address .route {
+            padding-left: 24px; }
+  .start .right {
+    flex: 1;
+    position: relative;
+    min-width: 280px; }
+    .start .right .button {
+      height: 100%;
+      position: absolute;
+      background: transparent;
+      transition: background .3s ease;
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999; }
+    .start .right .button:hover {
+      background: rgba(0, 0, 0, 0.2); }
+    .start .right .button:first-child {
+      left: 0; }
+    .start .right .button:last-child {
+      right: 0; }
+    .start .right button {
+      cursor: pointer;
+      background: none;
+      border: none;
+      background: rgba(0, 0, 0, 0.1);
+      display: block;
+      height: 48px;
+      width: 48px;
+      margin: 0 10px;
+      outline: none;
+      text-align: center;
+      border-radius: 50%; }
+      .start .right button i {
+        margin-top: 2px;
+        color: white;
+        font-size: 32px; }
+    .start .right .button-prev i {
+      margin-right: 5px; }
+    .start .right .button-next i {
+      margin-left: 5px; }
+    .start .right .images {
+      position: relative; }
+      .start .right .images .entry {
+        background-color: white;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 100%;
+        height: 100vh;
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0;
+        visibility: hidden;
+        text-indent: -9999px; }
+      .start .right .images .entry[active=true] {
+        visibility: visible; }
+
+.normal .footer {
+  background-color: #c2c7c6;
+  margin-top: 20px; }
+  .normal .footer .inner {
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px 0;
+    color: #333333;
+    display: flex;
+    justify-content: space-between; }
+    .normal .footer .inner a {
+      color: #333333;
+      text-decoration: none; }
+.normal .top {
+  background: #00377a;
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  top: 0;
+  z-index: 999999; }
+  .normal .top h1 {
+    background-image: url(/autoforum/images/autoforum-froendenberg.jpg);
+    background-size: 100%;
+    display: block;
+    width: 345px;
+    height: 60px;
+    text-indent: -9999px; }
+  .normal .top nav {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    text-align: center;
+    padding: 20px; }
+    .normal .top nav ul {
+      padding: 0;
+      margin: 0; }
+    .normal .top nav li {
+      margin: 0;
+      padding: 0;
+      display: inline-block; }
+    .normal .top nav a {
+      color: white;
+      padding: 20px;
+      text-decoration: none; }
+    .normal .top nav a:hover {
+      background: rgba(255, 255, 255, 0.2); }
+.normal .title {
+  margin-top: 60px;
+  padding: 20px 0;
+  background-color: #c2c7c6;
+  background-repeat: no-repeat;
+  background-position: center right;
+  position: relative; }
+  .normal .title:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, #c2c7c6 60%, rgba(194, 199, 198, 0.3));
+    z-index: 1; }
+  .normal .title .inner {
+    position: relative;
+    z-index: 2;
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto; }
+    .normal .title .inner h1 {
+      width: 100%;
+      color: white;
+      text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4);
+      margin-top: 50px;
+      margin-bottom: 50px; }
+.normal .content {
+  max-width: 1000px;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 20px 0;
+  min-height: 60vh; }
+  .normal .content a {
+    color: #00377a;
+    text-decoration: none; }
+  .normal .content a:hover {
+    text-decoration: underline; }
+  .normal .content h1 {
+    color: #999999;
+    margin-top: 50px;
+    margin-bottom: 50px; }
+  .normal .content h2, .normal .content h3, .normal .content p {
+    color: #333333; }
+  .normal .content .inner .entry {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px; }
+  .normal .content .inner .entry:nth-child(2n) {
+    flex-direction: row-reverse; }
+  .normal .content .inner .entry:last-child {
+    margin-bottom: 0; }
+  .normal .content .inner .info {
+    background: #eeeeee;
+    padding: 20px;
+    flex: 2; }
+    .normal .content .inner .info h2 {
+      margin-top: 0;
+      color: #333333; }
+  .normal .content .inner .images {
+    flex: 1; }
+    .normal .content .inner .images .image {
+      min-width: 280px;
+      min-height: 280px;
+      background-size: cover;
+      background-position: center center; }
