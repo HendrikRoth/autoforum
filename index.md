@@ -1,6 +1,7 @@
 ---
 layout: start
 exclude: true
+categories: start
 order: 1
 title: Willkommen
 file: "/uploads/angebot.pdf"

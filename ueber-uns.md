@@ -3,7 +3,7 @@ layout: normal
 title: "Über uns"
 image: "/uploads/banner.jpg"
 order: 3
-categories: "Über uns"
+categories: Ueberuns
 ---
 
 ## Ihre Sicherheit ist uns wichtig
