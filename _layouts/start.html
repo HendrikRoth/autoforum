@@ -15,11 +15,13 @@
 					{% for i in sorted_pages %}
 						{% unless i.exclude == true %}
 							{% unless i.url == '/feed.xml' %}
-							<li active="{% if i.url == page.url %}true{% else %}false{% endif %}"><a href="{{ i.url | prepend:site.baseurl }}">{{ i.title }}</a></li>
+								{% unless i.url == '/config-forestryio.yml' %}
+								<li active="{% if i.url == page.url %}true{% else %}false{% endif %}"><a href="{{ i.url | prepend:site.baseurl }}">{{ i.title }}</a></li>
+								{% endunless %}
 							{% endunless %}
 						{% endunless %}
 					{% endfor %}
-					<li><a target="_blank" href="{{ page.file | prepend: site.baseurl }}">Angebote</a></li>
+					<li><a class="angebote" target="_blank" href="{{ page.file | prepend: site.baseurl }}">Angebote</a></li>
 				</ul>
 			</nav>
 

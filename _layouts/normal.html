@@ -14,7 +14,9 @@
 							{% unless i.exclude == true %}
 								{% unless i.url == '/feed.xml' %}
 									{% unless i.url == '/impressum.html' %}
-									<li active="{% if i.url == page.url %}true{% else %}false{% endif %}"><a href="{{ i.url | prepend:site.baseurl }}">{{ i.title }}</a></li>
+										{% unless i.url == '/config-forestryio.yml' %}
+										<li active="{% if i.url == page.url %}true{% else %}false{% endif %}"><a href="{{ i.url | prepend:site.baseurl }}">{{ i.title }}</a></li>
+										{% endunless %}
 									{% endunless %}
 								{% endunless %}
 							{% endunless %}
