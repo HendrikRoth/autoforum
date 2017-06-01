@@ -4,6 +4,7 @@ title: "Über uns"
 category: "Über uns"
 image: "/uploads/banner.jpg"
 order: 3
+categories: "Über uns"
 ---
 
 ## Ihre Sicherheit ist uns wichtig
