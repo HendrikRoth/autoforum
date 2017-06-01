@@ -1,7 +1,6 @@
 ---
 layout: start
 exclude: true
-category: Willkommen
 order: 1
 title: Willkommen
 file: "/uploads/angebot.pdf"
@@ -22,5 +21,6 @@ address_2: Bösperder Weg 54
 city_2: 58708 Menden
 phone_2: 02373 9614940
 email_2: autoforum-houck-menden@gmx.de
+categories: Willkommen
 ---
 

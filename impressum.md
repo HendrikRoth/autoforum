@@ -2,7 +2,7 @@
 layout: normal
 title: Impressum
 order: 9999
-category: Impressum
+categories: Impressum
 ---
 
 ## Haftungsausschluss:
