@@ -28,23 +28,12 @@
 			<div class="bottom">
 				<div class="addresses">
 					<address>
-						<h3>{{ page.name_1 }}</h3>
-						<p class="opening"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ page.opening_1 }}</p>
-						<p class="address"><i class="fa fa-map-marker" aria-hidden="true"></i>{{ page.address_1 }}</p>
-						<p class="city">{{ page.city_1 }}</p>
-						<p class="route"><a target="_blank" href="https://www.google.com/maps/dir/Current+Location/{{ page.address_1 }},{{ page.city_1 }}">Route berechnen</a></p>
-						<p class="phone"><i class="fa fa-phone" aria-hidden="true"></i>{{ page.phone_1 }}</p>
-						<p class="mail"><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:{{ page.email_1 }}">{{ page.email_1 }}</a></p>
-					</address>
-					<address>
-						<h3>{{ page.name_2 }}</h3>
-						<p class="opening"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ page.opening_2 }}</p>
-						<p class="address"><i class="fa fa-map-marker" aria-hidden="true"></i>{{ page.address_2 }}</p>
-						<p class="city">{{ page.city_2 }}</p>
-						<p class="route"><a target="_blank" href="https://www.google.com/maps/dir/Current+Location/{{ page.address_2 }},{{ page.city_2 }}">Route berechnen</a></p>
-
-						<p class="phone"><i class="fa fa-phone" aria-hidden="true"></i>{{ page.phone_2 }}</p>
-						<p class="mail"><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:{{ page.email_2 }}">{{ page.email_2 }}</a></p>
+						<p class="opening"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ site.opening }}</p>
+						<p class="address"><i class="fa fa-map-marker" aria-hidden="true"></i>{{ site.address }}</p>
+						<p class="city">{{ site.city }}</p>
+						<p class="route"><a target="_blank" href="https://www.google.com/maps/dir/Current+Location/{{ site.address }},{{ site.city }}">Route berechnen</a></p>
+						<p class="phone"><i class="fa fa-phone" aria-hidden="true"></i>{{ site.phone }}</p>
+						<p class="mail"><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:{{ page.email }}">{{ site.email }}</a></p>
 					</address>
 				</div>
 				<div class="info">{{ page.content }}</div>

@@ -2,7 +2,7 @@
 exclude: yes
 ---
 
-$blue: #00377a;
+$blue: #013170;
 $grey: #eeeeee;
 $lightGray: #999999;
 $darkGrey: #333333;
@@ -45,6 +45,7 @@ p {
 .start {
 	display: flex;
 	flex-wrap: wrap;
+	height: 100vh;
 
 	.left {
 		background: $blue;
@@ -63,6 +64,8 @@ p {
 			h1 {
 				background-image: url({{ "/images/autoforum-froendenberg.jpg" | prepend: site.baseurl }});
 				background-size: 100%;
+				background-repeat: no-repeat;
+				background-position: center center;
 				display: block;
 				width: 345px;
 				height: 60px;
@@ -74,7 +77,6 @@ p {
 			background: rgba(255, 255, 255, 0.1);
 			color: white;
 			text-align: center;
-			padding: 20px;
 			ul {
 				padding: 0;
 				margin: 0;
@@ -88,6 +90,7 @@ p {
 				color: white;
 				padding: 20px;
 				text-decoration: none;
+				display: inline-block;
 			}
 			a:hover {
 				background: rgba(255, 255, 255, 0.2);
@@ -134,7 +137,7 @@ p {
 		min-width: 280px;
 
 		.button {
-			height: 100%;
+			height: 100vh;
 			position: absolute;
 			background: rgba(0, 0, 0, 0);
 			transition: background .3s ease;
@@ -213,9 +216,44 @@ p {
 .normal {
 	$barHeight: 60px;
 
+	.addresses {
+		background-color: rgba(194,199,198,0.5);
+		color: #333333;
+		margin-top: 20px;
+		padding: 20px 0px;
+
+		a {
+			color: #333333;
+		}
+
+		.inner {
+			max-width: 1000px;
+			width: 90%;
+			margin: 0 auto;
+
+			address {
+				display: flex;
+				flex-direction: row;
+				flex-wrap: wrap;
+				font-style: normal;
+
+				div {
+					min-width: 50%;
+				}
+
+				i {
+					width: 24px;
+				}
+
+				.city, .route {
+					padding-left: 24px;
+				}
+			}
+		}
+	}
+
 	.footer {
 		background-color: rgba(194,199,198,1);
-		margin-top: 20px;
 
 		.inner {
 			max-width: 1000px;
@@ -256,7 +294,7 @@ p {
 			background: rgba(255, 255, 255, 0.1);
 			color: white;
 			text-align: center;
-			padding: 20px;
+			padding: 20px 0px;
 			ul {
 				padding: 0;
 				margin: 0;
@@ -276,6 +314,7 @@ p {
 			}
 		}
 	}
+
 
 	.title {
 		margin-top: $barHeight;
@@ -313,6 +352,23 @@ p {
 		}
 	}
 
+	@media only screen and (max-width: 700px) {
+		font-size: 0.8em;
+		.top {
+			justify-content: center;
+			flex-wrap: wrap;
+			nav {
+				width: 100%;
+				position: absolute;
+				top: $barHeight;
+				background: $blue;
+			}
+		}
+		.title {
+			margin-top: $barHeight + 20px;
+		}
+	}
+
 	.content {
 		max-width: 1000px;
 		width: 90%;
@@ -345,6 +401,7 @@ p {
 			.entry {
 				display: flex;
 				flex-direction: row;
+				flex-wrap: wrap;
 				margin-bottom: 50px;
 			}
 

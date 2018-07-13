@@ -1,3 +1,19 @@
+<div class="addresses">
+	<div class="inner">
+		<address>
+			<div>
+				<p class="opening"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ site.opening }}</p>
+				<p class="phone"><i class="fa fa-phone" aria-hidden="true"></i>{{ site.phone }}</p>
+				<p class="mail"><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+			</div>
+			<div>
+				<p class="address"><i class="fa fa-map-marker" aria-hidden="true"></i>{{ site.address }}</p>
+				<p class="city">{{ site.city }}</p>
+				<p class="route"><a target="_blank" href="https://www.google.com/maps/dir/Current+Location/{{ site.address }},{{ site.city }}">Route berechnen</a></p>
+			</div>
+		</address>
+	</div>
+</div>
 <div class="footer">
 	<div class="inner">
 		&copy; {{ site.time | date: '%Y' }} {{ site.company }}

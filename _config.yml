@@ -24,6 +24,11 @@ baseurl: "/autoforum" # the subpath of your site, e.g. /blog
 url: "https://hendrikroth.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+opening: 'Montag - Freitag: 08.00 - 18.00 Uhr'
+address: Westicker Str. 60
+city: 58730 Fröndenberg
+phone: 02373 6889101
+email: autoforum-froendenberg@gmx.de
 
 # Build settings
 markdown: kramdown
