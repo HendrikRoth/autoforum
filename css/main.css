@@ -44,7 +44,7 @@ p {
       justify-content: center;
       align-items: center; }
       .start .left .top h1 {
-        background-image: url(/autoforum/images/autoforum-froendenberg.jpg);
+        background-image: url(//images/autoforum-froendenberg.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
         background-position: center center;
@@ -193,7 +193,7 @@ p {
   top: 0;
   z-index: 999999; }
   .normal .top h1 {
-    background-image: url(/autoforum/images/autoforum-froendenberg.jpg);
+    background-image: url(//images/autoforum-froendenberg.jpg);
     background-size: 100%;
     display: block;
     width: 345px;
