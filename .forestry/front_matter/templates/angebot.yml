@@ -7,9 +7,10 @@ fields:
   label: Titel
   name: title
   description: Titel
-- type: number
+- type: text
   name: preis
   label: Preis
+  description: ''
   config:
     required: true
 - type: text
