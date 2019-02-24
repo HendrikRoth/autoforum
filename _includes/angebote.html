@@ -10,7 +10,7 @@
         </div>
         <div class="info">
             <h3>{{ post.title }}</h3>
-            {% if post.von.length > 0 or post.bis.length > 0 %}<p class="zeitraum">Gültig: {% if post.von.length > 0 %}{{ post.von }}{% endif %} {% if post.bis.length > 0 %}bis {{ post.bis }}{% endif %}</p>{% endif %}
+            {% if post.von.size > 0 or post.bis.size > 0 %}<p class="zeitraum">Gültig: {% if post.von.size > 0 %}ab {{ post.von }}{% endif %} {% if post.bis.size > 0 %}bis {{ post.bis }}{% endif %}</p>{% endif %}
             <p>{{ post.content }}</p>
         </div>
     </li>
