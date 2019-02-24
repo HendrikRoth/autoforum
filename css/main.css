@@ -97,7 +97,7 @@ p {
     .start .right .button {
       height: 100vh;
       position: absolute;
-      background: rgba(0, 0, 0, 0);
+      background: transparent;
       transition: background .3s ease;
       cursor: pointer;
       display: flex;
@@ -300,3 +300,51 @@ p {
       min-height: 280px;
       background-size: cover;
       background-position: center center; }
+
+.angebote {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+  .angebote li {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    min-height: 120px; }
+    .angebote li .preis {
+      padding: 10px;
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+      justify-items: center;
+      justify-content: center;
+      background: #e2091c;
+      font-weight: bold;
+      font-size: 2em;
+      padding: 10px;
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8); }
+      .angebote li .preis p {
+        color: white;
+        text-align: center; }
+      .angebote li .preis .preis_zeichen {
+        color: #ccc;
+        font-size: 0.7em; }
+      .angebote li .preis .preis_information {
+        text-align: center;
+        font-weight: normal;
+        font-size: 0.5em;
+        color: #ccc; }
+    .angebote li .info {
+      flex: 4;
+      padding: 10px;
+      background-color: rgba(194, 199, 198, 0.5);
+      color: #333333; }
+      .angebote li .info h3 {
+        font-size: 1.5em;
+        margin: 0; }
+      .angebote li .info .zeitraum {
+        color: #666;
+        margin: 0; }
+      .angebote li .info p {
+        margin-top: 10px; }
