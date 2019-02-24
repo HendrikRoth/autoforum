@@ -13,6 +13,7 @@ fields:
   description: ''
   config:
     required: true
+  default: '19,99'
 - type: text
   name: preis_information
   label: Preisinformation
