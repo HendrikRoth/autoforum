@@ -1,7 +1,7 @@
 ---
 title: Ölwechsel
 date: '2018-02-24T20:15:49.000+00:00'
-angebot: Ja
+angebot: true
 preis: "24,90"
 preis_information: Motor Komplettpreis
 ---

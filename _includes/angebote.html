@@ -1,6 +1,6 @@
 <ul class="angebote">
 {% for post in site.posts %}
-{% if post.angebot == "Ja" %}
+{% if post.angebot == true %}
     <li>
         <div class="preis">
             {% if post.preis %}
