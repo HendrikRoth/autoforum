@@ -27,3 +27,5 @@ fields:
   label: Angebot anzeigen?
   description: Soll das Angebot angezeigt werden?
   default: true
+pages:
+- _posts/kupplungssatz.md
