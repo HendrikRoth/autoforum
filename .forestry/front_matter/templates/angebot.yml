@@ -28,5 +28,3 @@ fields:
 - type: text
   label: Gültig bis
   name: bis
-pages:
-- _posts/zahnriemen-satz.md
