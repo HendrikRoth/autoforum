@@ -1,0 +1,30 @@
+---
+label: Angebot
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Titel
+  name: title
+  description: Titel
+- type: number
+  name: preis
+  label: Preis
+  config:
+    required: true
+- type: text
+  name: preis_information
+  label: Preisinformation
+  description: "(Komplettpreis ab, Festpreis, ...)"
+- type: text
+  name: angebot
+  label: Angebot
+  description: Bitte immer Ja eintragen
+  config:
+    required: true
+- type: text
+  label: Gültig von
+  name: von
+- type: text
+  label: Gültig bis
+  name: bis
