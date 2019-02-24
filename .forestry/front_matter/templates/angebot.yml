@@ -17,14 +17,13 @@ fields:
   label: Preisinformation
   description: "(Komplettpreis ab, Festpreis, ...)"
 - type: text
-  name: angebot
-  label: Angebot
-  description: Bitte immer Ja eintragen
-  config:
-    required: true
-- type: text
   label: Gültig von
   name: von
 - type: text
   label: Gültig bis
   name: bis
+- type: boolean
+  name: angebot
+  label: Angebot anzeigen?
+  description: Soll das Angebot angezeigt werden?
+  default: true
