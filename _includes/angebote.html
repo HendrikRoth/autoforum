@@ -1,0 +1,19 @@
+<ul class="angebote">
+{% for post in site.posts %}
+{% if post.angebot == "Ja" %}
+    <li>
+        <div class="preis">
+            {% if post.preis %}
+                <p>{{ post.preis }} <span class="preis_zeichen">€</span></p>
+                {% if post.preis_information %}<span class="preis_information">{{ post.preis_information }}</span>{% endif %}
+            {% endif %}
+        </div>
+        <div class="info">
+            <h3>{{ post.title }}</h3>
+            {% if post.von or post.bis %}<p class="zeitraum">Gültig: {% if post.von %}{{ post.von }}{% endif %} {% if post.bis %}bis {{ post.bis }}{% endif %}</p>{% endif %}
+            <p>{{ post.content }}</p>
+        </div>
+    </li>
+{% endif %}
+{% endfor %}
+</ul>

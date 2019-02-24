@@ -21,11 +21,6 @@
 								{% endunless %}
 							{% endunless %}
 						{% endfor %}
-						{% for i in site.pages %}
-							{% if i.layout == 'start' %}
-								<li><a target="_blank" href="{{ i.file | prepend: site.baseurl }}">Angebote</a></li>
-							{% endif %}
-						{% endfor %}
 					</ul>
 				</nav>
 			</div>
