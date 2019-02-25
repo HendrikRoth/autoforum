@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/kfz-lackierung-1-teil.md
 - _posts/achsmanschette-radseitig.md
 - _posts/bremsscheiben-mit-bremsklötze-erneuern.md
 - _posts/bremsbeläge-wechsel-incl-teile.md
