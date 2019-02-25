@@ -30,7 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
-- _posts/kfz-fehlerauslesen-und-löschen-probleme-finden.md
+- _posts/2019-02-25-kfz-fehlerauslesen-und-löschen-probleme-finden.md
 - _posts/reifen-alle-marken-und-grössen.md
 - _posts/reifenmontage-auf-der-felge-bis-17-zoll-mit-wuchten-und-altreifen-entsorgung.md
 - _posts/reifenwechsel-reifen-wechsel-satz.md
