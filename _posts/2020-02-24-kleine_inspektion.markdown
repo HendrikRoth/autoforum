@@ -7,4 +7,4 @@ bis: ''
 preis_information: Festpreis
 
 ---
-Alle PKW, nach Herstellervorgaben, mit Stempel im Serviceheft.
+Alle PKW, nach Herstellervorgaben, mit Stempel im Serviceheft. 58730 Fröndenberg
