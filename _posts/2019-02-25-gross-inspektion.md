@@ -8,4 +8,4 @@ bis: ''
 date: 2019-02-25 16:30:19 +0100
 
 ---
-mit Einbau aller bei uns gekauften Teile 
+mit Einbau aller bei uns gekauften Teile 58730 Fröndenberg
