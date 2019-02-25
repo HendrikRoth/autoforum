@@ -1,7 +1,7 @@
 ---
 preis: '99,90'
 angebot: true
-title: Gross Inspektion
+title: Grosse Inspektion
 preis_information: Festpreis
 von: ''
 bis: ''
