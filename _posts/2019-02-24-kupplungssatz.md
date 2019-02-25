@@ -1,7 +1,7 @@
 ---
 angebot: true
 title: Kupplungssatz
-preis: '299,00'
+preis: '299,90'
 preis_information: mit Einbau ab
 von: ''
 bis: ''
