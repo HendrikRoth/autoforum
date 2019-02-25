@@ -1,7 +1,7 @@
 ---
 preis: '199,90'
 angebot: true
-title: 'Auspuff Auspuff ab Kat '
+title: 'Auspuff Auspuffanlage ab Kat '
 preis_information: Komplettpreis ab
 von: ''
 bis: ''
