@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/ölwechsel-1.md
 - _posts/ölwechsel.md
 - _posts/automatikgetriebe-systemspülung.md
 - _posts/2019-02-25-steuerkettensatz-wechsel.md
