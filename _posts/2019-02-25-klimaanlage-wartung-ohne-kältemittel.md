@@ -8,4 +8,4 @@ bis: ''
 date: 2019-02-25 16:47:22 +0100
 
 ---
-Kältemittel pro 100 g 14,90,-
+Kältemittel pro 100 g 14,90,- 58730 Fröndenberg
