@@ -1,7 +1,7 @@
 ---
 preis: '79,90'
 angebot: true
-title: Bremsbeläge Wechsel incl. Teile
+title: Bremsbeläge Bremsklötze Wechsel incl. Teile
 preis_information: Komplettpreis ab
 von: ''
 bis: ''
