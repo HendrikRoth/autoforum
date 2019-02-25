@@ -1,7 +1,7 @@
 ---
 preis: '249,90'
 angebot: true
-title: Rußpartikelfilter - Reinigen Ruspartikelfilter
+title: 'Rußpartikelfilter - Reinigen '
 preis_information: Komplettpreis ab
 von: ''
 bis: ''
