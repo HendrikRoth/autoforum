@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/klimaanlage-wartung-ohne-kältemittel.md
 - _posts/auspuff-auspuff-ab-kat.md
 - _posts/zylinderkopdichtung-mit-einbau.md
 - _posts/achsvermessung-laser-von-bosch.md
