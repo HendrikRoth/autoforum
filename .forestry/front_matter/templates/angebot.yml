@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/hu-au-tüv-dekra-gtü-5-tage-die-woche.md
 - _posts/gross-inspektion.md
 - _posts/ölwechsel-1.md
 - _posts/ölwechsel.md
