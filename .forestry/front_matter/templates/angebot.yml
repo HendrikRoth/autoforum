@@ -30,5 +30,6 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/automatikgetriebe-systemspülung.md
 - _posts/2019-02-25-steuerkettensatz-wechsel.md
 - _posts/kupplungssatz.md
