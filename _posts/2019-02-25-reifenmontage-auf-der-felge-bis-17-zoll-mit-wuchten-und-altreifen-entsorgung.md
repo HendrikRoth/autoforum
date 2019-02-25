@@ -8,4 +8,4 @@ bis: ''
 date: 2019-02-25 17:01:09 +0100
 
 ---
-über 17 Zoll auf anfrage
+über 17 Zoll auf anfrage 58730 Fröndenberg
