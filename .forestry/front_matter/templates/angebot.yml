@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/reifenwechsel-reifen-wechsel-satz.md
 - _posts/reifen-alle-marken-und-grössen.md
 - _posts/rußpartikelfilter-reinigen-ruspartikelfilter.md
 - _posts/klimaanlage-wartung-ohne-kältemittel.md
