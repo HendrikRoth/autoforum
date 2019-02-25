@@ -30,4 +30,5 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/steuerkettensatz-wechsel.md
 - _posts/kupplungssatz.md
