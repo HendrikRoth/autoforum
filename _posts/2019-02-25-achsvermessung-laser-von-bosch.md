@@ -2,7 +2,7 @@
 preis: '49,90'
 angebot: true
 title: Achsvermessung Laser von Bosch
-preis_information: Festpreis
+preis_information: Festpreis Betrieb Fröndenberg
 von: ''
 bis: ''
 date: 2019-02-25 16:38:57 +0100
