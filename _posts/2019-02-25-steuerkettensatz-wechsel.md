@@ -2,7 +2,7 @@
 preis: '599,90'
 angebot: true
 title: Steuerketten - Satz - Wechsel
-preis_information: Komplettpreis ab
+preis_information: Komplettpreis ab Betrieb Fröndenberg
 von: ''
 bis: ''
 date: 2019-02-25 16:11:52 +0100
