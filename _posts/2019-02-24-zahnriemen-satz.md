@@ -1,7 +1,7 @@
 ---
 title: Zahnriemen - Satz
 preis: '199,90'
-preis_information: Komplettpreis ab Betrieb Fröndenberg
+preis_information: Komplettpreis ab.
 angebot: true
 von: ''
 bis: ''
