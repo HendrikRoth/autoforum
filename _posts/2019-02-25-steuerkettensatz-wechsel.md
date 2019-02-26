@@ -1,7 +1,7 @@
 ---
 preis: '599,90'
 angebot: true
-title: Steuerkettensatz - Wechsel
+title: Steuerketten - Satz - Wechsel
 preis_information: Komplettpreis ab
 von: ''
 bis: ''
