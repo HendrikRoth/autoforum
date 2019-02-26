@@ -8,4 +8,4 @@ bis: ''
 date: 2019-02-24 00:52:29 +0000
 
 ---
-Inklusive aller Rollen, Wasserpumpe und Arbeitslohn!
+Inklusive aller Rollen, Wasserpumpe und Arbeitslohn! 58730 Fröndenberg
