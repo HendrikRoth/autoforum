@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/kupplungssatz.md
 - _posts/stossdämpfer-erneuern-stück.md
 - _posts/2019-02-26-windschutzscheibe-erneuern-autoglas-auto-glas.md
 - _posts/2019-02-26-agr-ventil-erneuern.md
@@ -37,7 +38,6 @@ pages:
 - _posts/2019-02-26-windschutzscheibe-reparatur.md
 - _posts/reifen-einlagerung-stück.md
 - _posts/2019-02-25-steuerkettensatz-wechsel.md
-- _posts/kupplungssatz.md
 - _posts/kfz-lackierung-1-teil.md
 - _posts/achsmanschette-radseitig.md
 - _posts/bremsscheiben-mit-bremsklötze-erneuern.md
