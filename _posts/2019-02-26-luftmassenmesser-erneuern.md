@@ -2,7 +2,7 @@
 preis: '99,90'
 angebot: true
 title: Luftmassenmesser Erneuern
-preis_information: Komplettpreis ab Betrieb Fröndenberg
+preis_information: Komplettpreis ab.
 von: ''
 bis: ''
 date: 2019-02-26 09:34:08 +0100
