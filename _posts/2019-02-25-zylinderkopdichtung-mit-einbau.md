@@ -2,7 +2,7 @@
 preis: '699,90'
 angebot: true
 title: 'Zylinderkopdichtung mit Einbau '
-preis_information: Komplettpreis ab
+preis_information: Komplettpreis ab Betrieb Fröndenberg
 von: ''
 bis: ''
 date: 2019-02-25 16:42:30 +0100
