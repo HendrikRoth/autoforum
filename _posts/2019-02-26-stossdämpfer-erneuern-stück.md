@@ -2,7 +2,7 @@
 preis: '99,90'
 angebot: true
 title: Stossdämpfer Erneuern Stück
-preis_information: Komklettpreis ab Betrieb Fröndenberg
+preis_information: Komklettpreis ab.
 von: ''
 bis: ''
 date: 2019-02-26 10:08:06 +0100
