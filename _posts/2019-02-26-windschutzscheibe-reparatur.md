@@ -2,7 +2,7 @@
 preis: '0,00'
 angebot: true
 title: Windschutzscheibenreparatur
-preis_information: Komplettpreis ab
+preis_information: Komplettpreis ab Betrieb Fröndenberg
 von: ''
 bis: ''
 date: 2019-02-26 09:26:30 +0100
