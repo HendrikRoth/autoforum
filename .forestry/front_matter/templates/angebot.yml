@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/agr-ventil-erneuern.md
 - _posts/2019-02-26-luftmassenmesser-erneuern.md
 - _posts/2019-02-26-windschutzscheibe-erneuern-autoglas-auto-glas.md
 - _posts/2019-02-26-windschutzscheibe-reparatur.md
