@@ -1,6 +1,6 @@
 ---
 angebot: true
-title: Kupplungssatz
+title: Kupplungs - Satz
 preis: '299,90'
 preis_information: mit Einbau ab
 von: ''
