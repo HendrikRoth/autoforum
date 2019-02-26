@@ -2,7 +2,7 @@
 preis: '19,99'
 angebot: true
 title: KFZ Fehlerauslesen und Löschen Probleme finden
-preis_information: Festpreis
+preis_information: Festpreis Betrieb Fröndenberg
 von: ''
 bis: ''
 date: 2019-02-25 17:36:07 +0100
