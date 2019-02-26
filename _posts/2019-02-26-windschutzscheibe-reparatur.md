@@ -1,7 +1,7 @@
 ---
 preis: '0,00'
 angebot: true
-title: Windschutzscheibe Reparatur
+title: Windschutzscheibenreparatur
 preis_information: Komplettpreis ab
 von: ''
 bis: ''
