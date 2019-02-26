@@ -20,3 +20,4 @@ Diese Prüfung des Autos beinhaltet mehrere Punkte
 * Fälligkeit der HU
 * Verbandkasten, Warndreieck und Warnwesten
 * Flüssigkeiten werden bis zu 1 Ltr. Kostenfrei aufgefüllt
+* 58730 Fröndenberg
