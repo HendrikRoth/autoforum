@@ -5,7 +5,7 @@ angebot: true
 preis: '39,90'
 von: ''
 bis: ''
-preis_information: Festpreis Betrieb Fröndenberg
+preis_information: 'Festpreis '
 
 ---
 alle Marken 58730 Fröndenberg
