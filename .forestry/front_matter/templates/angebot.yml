@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/lichttest-mit-einstellen.md
 - _posts/kupplungssatz.md
 - _posts/stossdämpfer-erneuern-stück.md
 - _posts/2019-02-26-windschutzscheibe-erneuern-autoglas-auto-glas.md
