@@ -2,7 +2,7 @@
 angebot: true
 title: Kupplungs - Satz
 preis: '299,90'
-preis_information: mit Einbau ab
+preis_information: Komplettpreis ab Betrieb Fröndenberg
 von: ''
 bis: ''
 date: 2019-02-24 02:06:44 +0100
