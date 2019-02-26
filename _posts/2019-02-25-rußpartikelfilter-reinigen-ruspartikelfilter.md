@@ -2,7 +2,7 @@
 preis: '249,90'
 angebot: true
 title: 'Rußpartikelfilter - Reinigen '
-preis_information: Komplettpreis ab
+preis_information: Komplettpreis ab Betrieb Fröndenberg
 von: ''
 bis: ''
 date: 2019-02-25 16:52:24 +0100
