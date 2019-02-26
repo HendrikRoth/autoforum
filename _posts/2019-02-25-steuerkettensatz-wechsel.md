@@ -1,7 +1,7 @@
 ---
 preis: '599,90'
 angebot: true
-title: Steuerketten - Satz - Wechsel
+title: Steuerketten - Steuerkette - Satz - Wechsel
 preis_information: Komplettpreis ab Betrieb Fröndenberg
 von: ''
 bis: ''
