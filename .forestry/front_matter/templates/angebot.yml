@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/frostschutz-für-motor-erneuern.md
 - _posts/anhengerkupplung-ahk-abnehmbar-mit-einbau.md
 - _posts/anhengerkupplung-ahk-starr-mit-einbau.md
 - _posts/winter-check.md
