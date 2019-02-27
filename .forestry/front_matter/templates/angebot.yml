@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/anhengerkupplung-ahk-starr-mit-einbau.md
 - _posts/winter-check.md
 - _posts/urlaubs-check.md
 - _posts/lichttest-mit-einstellen.md
