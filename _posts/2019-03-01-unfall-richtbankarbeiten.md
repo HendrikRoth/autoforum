@@ -1,7 +1,7 @@
 ---
 preis: '0,00'
 angebot: true
-title: Unfall Richtbankarbeiten
+title: Unfall Richtbankarbeiten Richtbank
 preis_information: Preis nach Aufwand
 von: ''
 bis: ''
