@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/unfall-gutachten.md
 - _posts/scheibentönung.md
 - _posts/beulendoktor-smart-repair-und-spot-repair.md
 - _posts/unfall-instandsetzun-unfallinstandsetzung-reparatur-gutachten.md
