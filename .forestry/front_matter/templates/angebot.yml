@@ -30,6 +30,7 @@ fields:
   description: Soll das Angebot angezeigt werden?
   default: true
 pages:
+- _posts/motor-instandsetzen-motorinstandsetzung-motorreparatur.md
 - _posts/lpg-gasanlagen-wartung.md
 - _posts/2019-02-27-frostschutz-für-motor-erneuern.md
 - _posts/anhengerkupplung-ahk-abnehmbar-mit-einbau.md
