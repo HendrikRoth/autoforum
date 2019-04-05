@@ -1,7 +1,7 @@
 ---
 preis: '0,00'
 angebot: true
-title: Unfall Instandsetzun Unfallinstandsetzung Reparatur Gutachten
+title: Unfall Instandsetzung Unfallinstandsetzung Reparatur Gutachten
 preis_information: Preis per Kostenvoranschlag
 von: ''
 bis: ''
