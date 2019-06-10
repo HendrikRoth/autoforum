@@ -348,3 +348,6 @@ p {
         margin: 0; }
       .angebote li .info p {
         margin-top: 10px; }
+
+#wkdb-widget {
+  margin-top: 20px; }
