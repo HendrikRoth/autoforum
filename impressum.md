@@ -15,7 +15,7 @@ D-58730 Fröndenberg<br>
 Holger Houck
 
 ### USt-Ident-Nr.
-DE 
+DE187398652
 
 ### Kontakt
 Telefon:	02373 6889101
