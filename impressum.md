@@ -7,16 +7,12 @@ posts: Impressum
 
 ## Anschrift
 
-Autoforum Houck GmbH<br>
+Autoforum Houck<br>
 Westicker Str. 60<br>
 D-58730 Fröndenberg<br>
 
 ## vertr. d. d. Geschäftsführer
 Holger Houck
-
-### Handelsregister
-Amtsgericht 
-HRB 
 
 ### USt-Ident-Nr.
 DE 

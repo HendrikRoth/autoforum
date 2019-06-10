@@ -15,7 +15,7 @@ posts: Datenschutz
 <h3>I. Informationen über uns als Verantwortliche</h3>
 <p>Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:</p>
 
-<p>Autoforum Houck GmbH<br>
+<p>Autoforum Houck<br>
 Westicker Str. 60<br>
 58730 Fröndenberg<br>
 Deutschland<br>
