@@ -6,6 +6,8 @@ order: 3
 posts: Ueberuns
 ---
 
+<iframe width="100%" height="600" src="https://www.youtube-nocookie.com/embed/C8mQqd5v0Ik?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Ihre Sicherheit ist uns wichtig
 
 Unsere Kfz-Reparaturwerkstatt in Fröndenberg Ruhr ist ein vertrauensvoller Ansprechpartner für Reparaturen aller Art. Ihre Sicherheit in Ihrem Fahrzeug ist dann gegeben, wenn das Auto ohne Mängel auf den Straßen unterwegs ist. Daher übernehmen wir neben der umfassenden Beratung auch wichtige Sicherheitschecks für Sie.

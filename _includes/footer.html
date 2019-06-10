@@ -17,6 +17,9 @@
 <div class="footer">
 	<div class="inner">
 		&copy; {{ site.time | date: '%Y' }} {{ site.company }}
-		<a href="{{ '/impressum.html' | prepend: site.baseurl }}">Impressum</a>
+		<div>
+			<a href="{{ '/datenschutz.html' | prepend: site.baseurl }}">Datenschutz</a> |
+			<a href="{{ '/impressum.html' | prepend: site.baseurl }}">Impressum</a>
+		</div>
 	</div>
 </div>
