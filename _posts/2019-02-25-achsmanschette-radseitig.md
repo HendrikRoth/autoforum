@@ -1,5 +1,5 @@
 ---
-preis: '90,00'
+preis: '90,00 '
 angebot: true
 title: Achsmanschette Radseitig
 preis_information: 'Komplettpreis ab. '
