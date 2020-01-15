@@ -1,11 +1,11 @@
 ---
-preis: '90,00 '
+preis: '90,00'
 angebot: true
 title: Achsmanschette Radseitig
 preis_information: 'Komplettpreis ab. '
 von: ''
 bis: ''
-date: 2020-01-09 17:00:38 +0100
+date: 2020-01-09T16:00:38.000+00:00
 
 ---
 alle Marken und Hersteller Einbau + Teile pro Seite 58730 Fröndenberg
