@@ -1,6 +1,6 @@
 ---
 preis: '99,90'
-angebot: true
+angebot: false
 title: HU - AU  Tüv - Dekra - GTÜ 5 Tage die Woche
 preis_information: 'Festpreis '
 von: ''
