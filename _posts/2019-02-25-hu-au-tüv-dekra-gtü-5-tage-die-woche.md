@@ -5,7 +5,7 @@ title: HU - AU  Tüv - Dekra - GTÜ 5 Tage die Woche
 preis_information: 'Festpreis '
 von: ''
 bis: ''
-date: 2020-01-15T16:00:21.000+00:00
+date: 2020-01-19 00:00:00 +0100
 
 ---
 Hauptuntersuchung nach § 29StVZO. durch externe Prüfingenieure der amtlichen Überwachungsorganisationen. 58730 Fröndenberg.
