@@ -5,7 +5,7 @@ title: 'Scheibentönung '
 preis_information: Komplettpreis ab.
 von: ''
 bis: ''
-date: 2019-03-01 14:52:58 +0100
+date: 2019-03-01T14:52:58.000+01:00
 
 ---
-für Kleinwagen max 3 Scheiben alle Marken und Modelle andere auf anfrage 58730 Fröndenberg
+für Kleinwagen max 3 Scheiben alle Marken und Modelle, andere auf Anfrage 58730 Fröndenberg
