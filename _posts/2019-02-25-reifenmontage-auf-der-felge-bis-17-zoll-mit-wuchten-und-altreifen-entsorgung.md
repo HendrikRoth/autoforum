@@ -5,7 +5,7 @@ title: Reifenmontage auf der Felge bis 17 Zoll mit Wuchten und Altreifen Entsorg
 preis_information: Komplettpreis für bei uns Gekaufte Reifen
 von: ''
 bis: ''
-date: 2019-02-25 17:01:09 +0100
+date: 2019-02-25T17:01:09.000+01:00
 
 ---
-über 17 Zoll auf anfrage 58730 Fröndenberg
+über 17 Zoll auf Anfrage 58730 Fröndenberg
