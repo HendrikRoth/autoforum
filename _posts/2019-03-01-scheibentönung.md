@@ -1,6 +1,6 @@
 ---
 preis: '99,00'
-angebot: true
+angebot: false
 title: 'Scheibentönung '
 preis_information: Komplettpreis ab.
 von: ''
