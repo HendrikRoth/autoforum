@@ -1,5 +1,5 @@
 ---
-preis: '59,90'
+preis: '69,90'
 angebot: true
 title: Klimaanlage Wartung ohne Kältemittel
 preis_information: Festpreis
