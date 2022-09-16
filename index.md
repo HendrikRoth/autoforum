@@ -1,7 +1,7 @@
 ---
 layout: start
 exclude: true
-order: 1
+order: "1"
 title: Willkommen
 file: "/uploads/angebot.pdf"
 images:
@@ -10,5 +10,5 @@ images:
 - path: "/uploads/2.png"
 - path: "/uploads/3.png"
 categories: Willkommen
----
 
+---
