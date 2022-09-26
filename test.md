@@ -5,6 +5,5 @@ title: test
 preis_information: "54"
 von: ''
 bis: ''
-published: false
 
 ---
