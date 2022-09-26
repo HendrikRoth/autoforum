@@ -2,7 +2,7 @@
 layout: start
 exclude: true
 order: "1"
-title: Willkommen1
+title: Willkommen
 file: "/uploads/angebot.pdf"
 images:
 - text: Foo
