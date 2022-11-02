@@ -1,6 +1,6 @@
 ---
 preis: '19,90'
-angebot: true
+angebot: false
 title: Urlaubs - Check
 preis_information: Komplettpreis
 von: ''
