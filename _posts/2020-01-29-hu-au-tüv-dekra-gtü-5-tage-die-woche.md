@@ -1,5 +1,5 @@
 ---
-preis: '119,00'
+preis: "119"
 angebot: true
 title: HU - AU  Tüv - Dekra - GTÜ 5 Tage die Woche
 date: 2020-01-29T20:15:49.000+00:00
