@@ -2,7 +2,7 @@
 layout: angebote
 title: Angebote
 image: "/uploads/banner.jpg"
-order: "4"
+order: 4
 posts: Angebote
 
 ---

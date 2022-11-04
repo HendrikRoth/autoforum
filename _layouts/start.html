@@ -11,7 +11,7 @@
 
 			<nav>
 				<ul>
-					{% assign sorted_pages = site.pages %}
+					{% assign sorted_pages = site.pages | sort: "order" %}
 					{% for i in sorted_pages %}
 						{% unless i.exclude == true %}
 							{% unless i.url == '/feed.xml' %}
