@@ -1,7 +1,6 @@
 ---
 layout: normal
 title: Leistungen
-order: 2
 posts: Leistungen
 
 ---

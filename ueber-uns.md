@@ -2,7 +2,6 @@
 layout: normal
 title: "Über uns"
 image: "/uploads/banner.jpg"
-order: 3
 posts: Ueberuns
 ---
 
