@@ -1,7 +1,7 @@
 ---
 preis: '699,90'
 angebot: true
-title: 'Zylinderkopdichtung mit Einbau '
+title: Zylinderkopdichtung mit Einbau TEST
 preis_information: Komplettpreis ab.
 von: ''
 bis: ''
