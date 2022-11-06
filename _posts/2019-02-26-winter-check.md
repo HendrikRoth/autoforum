@@ -1,5 +1,5 @@
 ---
-preis: '19,90'
+preis: '20,00'
 angebot: false
 title: 'Winter - Check '
 preis_information: Komplettpreis
