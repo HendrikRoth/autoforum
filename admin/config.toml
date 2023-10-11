@@ -1,0 +1,211 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: "uploads"
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts/"
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Kategorie", name: "posts", widget: "string" }
+      - { label: "Bilder", name: "images", widget: "image" }
+      - { label: "Text", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    editor:
+      preview: false
+    files:
+      - label: "Angebote"
+        name: "angebote"
+        file: "angebote.md"
+        fields:
+          - {
+              label: "Titel",
+              name: "title",
+              widget: "hidden",
+              default: "about",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "angebote",
+            }
+          - {
+              label: "Posts",
+              name: "posts",
+              widget: "hidden",
+              default: "Angebote",
+            }
+          - {
+              label: "Bild",
+              name: "image",
+              widget: "hidden",
+              default: "/uploads/banner.jpg",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Datenschutz"
+        name: "datenschutz"
+        file: "datenschutz.md"
+        fields:
+          - {
+              label: "Titel",
+              name: "title",
+              widget: "hidden",
+              default: "about",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "normal",
+            }
+          - {
+              label: "Posts",
+              name: "posts",
+              widget: "hidden",
+              default: "Datenschutz",
+            }
+          - {
+              label: "Sortierung",
+              name: "order",
+              widget: "hidden",
+              default: "9999",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Impressum"
+        name: "impressum"
+        file: "impressum.md"
+        fields:
+          - {
+              label: "Titel",
+              name: "title",
+              widget: "hidden",
+              default: "about",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "normal",
+            }
+          - {
+              label: "Posts",
+              name: "posts",
+              widget: "hidden",
+              default: "Impressum",
+            }
+          - {
+              label: "Sortierung",
+              name: "order",
+              widget: "hidden",
+              default: "9999",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Leistungen"
+        name: "leistungen"
+        file: "leistungen.md"
+        fields:
+          - {
+              label: "Titel",
+              name: "title",
+              widget: "hidden",
+              default: "about",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "normal",
+            }
+          - {
+              label: "Posts",
+              name: "posts",
+              widget: "hidden",
+              default: "Leistungen",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Ueber uns"
+        name: "ueber-uns"
+        file: "ueber-uns.md"
+        fields:
+          - {
+              label: "Titel",
+              name: "title",
+              widget: "hidden",
+              default: "about",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "normal",
+            }
+          - {
+              label: "Bild",
+              name: "image",
+              widget: "hidden",
+              default: "/uploads/banner.jpg",
+            }
+          - {
+              label: "Posts",
+              name: "posts",
+              widget: "hidden",
+              default: "Ueberuns",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Startseite"
+        name: "index"
+        file: "index.md"
+        fields:
+          - {
+              label: "Titel",
+              name: "title",
+              widget: "hidden",
+              default: "Willkommen",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "start",
+            }
+          - {
+              label: "Exclude",
+              name: "exclude",
+              widget: "hidden",
+              default: "true",
+            }
+          - {
+              label: "Datei",
+              name: "file",
+              widget: "hidden",
+              default: "/uploads/angebot.pdf",
+            }
+          - {
+              label: "Bild",
+              name: "image",
+              widget: "hidden",
+              default: "/uploads/banner.jpg",
+            }
+          - {
+              label: "Kategorien",
+              name: "categories",
+              widget: "hidden",
+              default: "Willkommen",
+            }
+          - {
+              label: "Sortierung",
+              name: "order",
+              widget: "hidden",
+              default: "1",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }

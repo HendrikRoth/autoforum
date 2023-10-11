@@ -1,7 +1,7 @@
 ---
 preis: '129,90'
 angebot: true
-title: 'HU - AU  Tüv - Dekra - GTÜ  '
+title: 'HU - AU  Tüv'
 date: 2020-01-29T21:15:49.000+01:00
 preis_information: Festpreis
 von: ''
